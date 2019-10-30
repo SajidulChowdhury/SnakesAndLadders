@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>image/sa_1.png</file>
+        <file>image/lad_tilt.png</file>
+    </qresource>
+</RCC>
